@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/youness186/webapp_template/issues"
   },
-  "homepage": "https://github.com/youness186/webapp_template#readme"
+  "homepage": "https://github.com/youness186/webapp_template#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^7.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-uglify": "^3.3.0"
+  }
 }

@@ -1,0 +1,1 @@
+var a=function(o){return o},double=[1,2,3].map(function(o){return 2*o});console.log(double);var bob={_name:"Bob",_friends:["Sally","Tom"]};console.log(bob.printFriends());
